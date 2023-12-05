@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites><testsuite name="Login" tests="1" time="27">
+<testcase name="Login" time="27" status="FAIL">
+<failure message="failed test case">fail at runtime</failure>
+</testcase>
+</testsuite>
+</testsuites>
